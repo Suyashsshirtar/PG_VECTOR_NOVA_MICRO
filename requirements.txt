@@ -1,0 +1,9 @@
+boto3
+psycopg2
+streamlit
+sentence-transformers
+langchain
+PyPDF2
+python-docx
+python-dotenv
+numpy
