@@ -144,7 +144,7 @@ class DocumentQAApp:
             
                         3. Condense this information into clear, concise sentences. Each sentence should capture a single main idea or key piece of information.
             
-                        4. Limit your summary to a maximum of 20 sentences. If the document is short or simple, you may use fewer sentences, but never exceed 10.
+                        4. Limit your summary to a maximum of 20\ sentences. If the document is short or simple, you may use fewer sentences, but never exceed 10.
             
                         5. Ensure that your sentences are:
                             - Concise: Keep each point brief and to the point.
